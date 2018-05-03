@@ -27,7 +27,7 @@ Selon la version de Ruby, il faudrat peut-être aller dans le gemfile pour suppr
 
 Il suffit d'aller dans le dossier de l'app et de lancer sur son terminal `rails server` avant de se rendre sur son navigateur sur http://localhost:3000.
 
-Avant ça, tu devras peut-être faire un `rails db:migrate` sur ton terminal.
+Avant ça, il faudrat peut-être faire un `rails db:migrate` sur son terminal.
 
 ## Pré-requis
 
