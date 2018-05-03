@@ -1,0 +1,4 @@
+ApplicationCable	channel.rb	/^module ApplicationCable$/;"	m
+Channel	channel.rb	/^  class Channel < ActionCable::Channel::Base$/;"	c	class:ApplicationCable
+ApplicationCable	connection.rb	/^module ApplicationCable$/;"	m
+Connection	connection.rb	/^  class Connection < ActionCable::Connection::Base$/;"	c	class:ApplicationCable
